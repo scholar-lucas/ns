@@ -3,3 +3,4 @@ change1
 2
 3
 6666
+cat status -sb
