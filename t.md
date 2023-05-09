@@ -7,4 +7,3 @@ cat status -sb
 change bug
 t1
 t2
-t3
